@@ -9,7 +9,7 @@ export default function Projects() {
         <div className="item">
           <h3>Porter.com</h3>
           <img
-            src="https://entrackr.com/wp-content/uploads/2020/11/porter-.jpg"
+            src="https://porter.in/blog/wp-content/uploads/2022/08/Porter-A-Trusted-Packers-and-Movers-in-Bangalore.png"
             alt=""
           />
           <div className="features">
